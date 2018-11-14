@@ -1,0 +1,8 @@
+name: ItemInfo
+main: ItemInfo\Main
+author: XFizzer
+version: 1.0.0
+api: 3.0.0
+commands:
+  iteminfo:
+    description: see info about the item you're holding
